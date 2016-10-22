@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit colors="true">
+  <testsuites>
+    <!-- <testsuite name="Application Test Suite">
+      <directory>./phpUnit/Test/simpleTest.php</directory>
+    </testsuite>
+    <testsuite name="Basic Test Suite">
+      <directory>./phpUnit/Test/basicTest.php</directory>
+    </testsuite> -->
+    <testsuite name="Array Test Suite">
+      <directory>./phpUnit/Test/arrays.php</directory>
+    </testsuite>
+  </testsuites>
+</phpunit>
